@@ -1,0 +1,19 @@
+name = "GStreamer_jll"
+uuid = "aaaaf01e-2457-52c6-9fe8-886f7267d736"
+version = "1.18.3+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
+LibUnwind_jll = "745a5e78-f969-53e9-954f-d19f2f74f4e3"
+GSL_jll = "1b77fbbe-d8ee-58f0-85f9-836ddc23a7a4"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+libcap_jll = "eef66a8b-8d7a-5724-a8d2-7c31ae1e29ed"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Elfutils_jll = "ab5a07f8-06af-567f-a878-e8bb879eba5a"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"

@@ -1,0 +1,97 @@
+[[GStreamer]]
+arch = "aarch64"
+git-tree-sha1 = "973eefbaffce9bd61fb021bd289f9ecc2f526672"
+libc = "glibc"
+os = "linux"
+
+    [[GStreamer.download]]
+    sha256 = "10bc5ca57c559b5d027c863a2db76676698fde7e2844ec6a0972a33ee4b85500"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.aarch64-linux-gnu.tar.gz"
+[[GStreamer]]
+arch = "aarch64"
+git-tree-sha1 = "4f76fdd4ee4617cc96c2e5d4321ed86337d33bd6"
+libc = "musl"
+os = "linux"
+
+    [[GStreamer.download]]
+    sha256 = "6f7c9d64beba77b25cfaa0f65075d5721c4f6a64ba64d6df1e5e605794259578"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.aarch64-linux-musl.tar.gz"
+[[GStreamer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5d6823e372bd834852499a5b8e4894481a9c671e"
+libc = "glibc"
+os = "linux"
+
+    [[GStreamer.download]]
+    sha256 = "6224c62d27154ea19eae465c7d12791937eba582e187e36b18dfedd885215294"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.armv7l-linux-gnueabihf.tar.gz"
+[[GStreamer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c6ad13e312299a9902b16581d2069df9caf6649d"
+libc = "musl"
+os = "linux"
+
+    [[GStreamer.download]]
+    sha256 = "3c3c4d9c5c3d588225f041a2ec7832f756bcf44411b97e893d77a3f306b2feec"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.armv7l-linux-musleabihf.tar.gz"
+[[GStreamer]]
+arch = "i686"
+git-tree-sha1 = "fafd514c3331936114470f407cc1e1eab06db56a"
+libc = "glibc"
+os = "linux"
+
+    [[GStreamer.download]]
+    sha256 = "519b2b7cd684c17c282239a18dc1c8789a09e0b035fb1cc5313cc59088cfe06d"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.i686-linux-gnu.tar.gz"
+[[GStreamer]]
+arch = "i686"
+git-tree-sha1 = "6dafbb1dad02585e64193b018186c4f1f6bb7ad2"
+os = "windows"
+
+    [[GStreamer.download]]
+    sha256 = "76c0daba669ac338f0603a48cb0373deb4f59cce60076cd685880b00348b5559"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.i686-w64-mingw32.tar.gz"
+[[GStreamer]]
+arch = "x86_64"
+git-tree-sha1 = "5e3a9556a33c37c8f3eb207d9f632e77d9df2510"
+os = "macos"
+
+    [[GStreamer.download]]
+    sha256 = "5399075efe0e28c637271ba810097625d7be31969ef55ed9bf03e120820058ba"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.x86_64-apple-darwin.tar.gz"
+[[GStreamer]]
+arch = "x86_64"
+git-tree-sha1 = "968d02e9b4c7def6be26bcc6b129d1d1e803c95e"
+libc = "glibc"
+os = "linux"
+
+    [[GStreamer.download]]
+    sha256 = "2abc4d497f5c6e1380256d77d112586fa6d0b5bc9de357b8bdcf8949fa47eb73"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.x86_64-linux-gnu.tar.gz"
+[[GStreamer]]
+arch = "x86_64"
+git-tree-sha1 = "1e7dc875619de092c347642629ceba785bf4c47f"
+libc = "musl"
+os = "linux"
+
+    [[GStreamer.download]]
+    sha256 = "8615a7d93b8c58b76b3fb29e79a98b20134c8a019fe8b95d8ee1b8ca3767f697"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.x86_64-linux-musl.tar.gz"
+[[GStreamer]]
+arch = "x86_64"
+git-tree-sha1 = "fbf93bbb7713ccfdc7e3af025ddf26413548e274"
+os = "freebsd"
+
+    [[GStreamer.download]]
+    sha256 = "17f741ae0a404c50c9288ebda8191c8101623e0e3b90951a91d18bc78e994d23"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.x86_64-unknown-freebsd.tar.gz"
+[[GStreamer]]
+arch = "x86_64"
+git-tree-sha1 = "17b645d8459dcb1960ec3cea9fb15a67f3927325"
+os = "windows"
+
+    [[GStreamer.download]]
+    sha256 = "ca5e04800a16f590a1f216af62e0a739425dd5a0d270f087a462dbdbfe653bc5"
+    url = "https://github.com/JuliaBinaryWrappers/GStreamer_jll.jl/releases/download/GStreamer-v1.18.3+0/GStreamer.v1.18.3.x86_64-w64-mingw32.tar.gz"
