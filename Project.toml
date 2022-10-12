@@ -1,6 +1,6 @@
 name = "GStreamer_jll"
 uuid = "aaaaf01e-2457-52c6-9fe8-886f7267d736"
-version = "1.18.3+0"
+version = "1.20.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -16,4 +16,7 @@ Elfutils_jll = "ab5a07f8-06af-567f-a878-e8bb879eba5a"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.6"
+GMP_jll = "6.2.0"
+GSL_jll = "~2.7.2"
+Glib_jll = "2.68.1"
